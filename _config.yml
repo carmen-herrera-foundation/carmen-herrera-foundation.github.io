@@ -18,7 +18,8 @@ site-keywords: Carmen Herrera, Foundation
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://raw.githubusercontent.com/simonletort/WhatATheme/master/assets/images/CH.jpeg
+heroimage: https://buffalobayou.org/bbpwordpress/wp-content/uploads/2020/09/62-CarmenHerrera-7070.jpg
+#https://raw.githubusercontent.com/carmen-herrera-foundation/carmen-herrera-foundation.github.io/main/assets/images/CH.jpeg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,9 +44,9 @@ disqus-shortname:
 # Name of the Author
 author-name: 
 # URL for the Image of the Author
-author-image: https://raw.githubusercontent.com/simonletort/WhatATheme/master/assets/images/CH-portrait.jpg
+author-image: https://raw.githubusercontent.com/carmen-herrera-foundation/carmen-herrera-foundation.github.io/main/assets/images/CH-portrait.jpg
 # 60 Words About the Author
-author-about: The Foundation supports the artistic legacy of Carmen Herrera. We are engaged in a comprehensive project to research and publish catalogues raisonnés that illustrate and detail the artist's work, and are committed to supporting other scholarship on the artist and exhibitions of her work around the world.
+author-about: The Foundation supports the artistic legacy of Carmen Herrera. We are engaged in a comprehensive project to research and publish a catalogue raisonné that illustrates and details the artist's work, and are committed to supporting other scholarship on the artist and exhibitions of her work around the world.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
@@ -56,7 +57,7 @@ sass:
 
 # Build settings
 plugins:
-  - jekyll-admin
+  #- jekyll-admin
   - jekyll-feed
 
 # Permalink
